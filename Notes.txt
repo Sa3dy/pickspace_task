@@ -1,0 +1,4 @@
+APIs:
+http://localhost:4200/api/login/demo/deena@dualparadox.com/test
+http://localhost:4200/api/get_members/demo/0f4681e81ddede7722d7c21e27e4e02ec3cc67423cd609e609fe16af6c3a714b/t
+http://localhost:4200/api/send_email -- with body(member_email-message_text)
